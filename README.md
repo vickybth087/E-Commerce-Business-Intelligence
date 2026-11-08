@@ -46,3 +46,6 @@ This project helped me develop practical skills in Power BI, data visualization,
 
 ## Dashboard Preview 
 ![E-Commerce Dashboard](Dashboard%20of%20E_Commerce%20Business%20Intelligence.png)
+
+## Download Power BI Dashboard
+[Click here to download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1g7wiyJlVjiB78eIRhn1yS-t3imMjWKYY/view?usp=drive_link)
